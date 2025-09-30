@@ -2,7 +2,7 @@
 
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/devansh978s-projects/ai-interview-assistant)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/akC1tHhu2rJ)
+
 
 ## Overview
 
@@ -11,11 +11,11 @@ It helps simulate interview scenarios using AI, providing a seamless and interac
 
 ## Deployment
 
-Your project is live at:
+project is live at:
 
 **[https://vercel.com/devansh978s-projects/ai-interview-assistant](https://vercel.com/devansh978s-projects/ai-interview-assistant)**
 
-✨ Features
+## ✨ Features
 
 🤖 AI-powered interview simulations
 
@@ -41,6 +41,62 @@ Your project is live at:
 
 ## Build your app
 
+⚙️ Installation (local development)
 
+Clone the repo and install dependencies:
+```
+git clone 
+npm install
+```
+
+
+Run locally:
+```
+npm run dev
+```
+
+Build for production:
+```
+npm run build
+npm start
+```
+
+Lint code:
+```
+npm run lint
+```
+## 🛠 Tech Stack
+
+Framework: Next.js 14
+
+Language: TypeScript 5
+
+UI: TailwindCSS 4, Radix UI, Geist, Lucide Icons
+
+State Management: Redux Toolkit, React Redux
+
+Forms & Validation: React Hook Form, Zod
+
+AI & Parsing: ai, Tesseract.js, pdf.js
+
+Data Viz: Recharts
+
+Deployment: Vercel 
+
+## ❓ Troubleshooting
+
+Tailwind not applying? Check postcss + autoprefixer setup.
+
+Radix UI components breaking? Ensure providers are set up correctly.
+
+TypeScript errors? Verify @types/react + typescript versions align.
+
+Sync issues? Re-trigger deployment in v0.app or Vercel.
+
+## 👥 Contributors
+
+[Devansh978](https://github.com/Devansh978) – Maintainer
+
+Gmail - devanshchourey@gmail.com
 
 
