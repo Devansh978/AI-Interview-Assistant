@@ -1,4 +1,4 @@
-# AI Interview Assistant
+[![AI Interview Assistant](https://img.shields.io/badge/AI%20Interview%20Assistant-Live%20Demo-1E90FF?style=for-the-badge&logo=react&logoColor=white)](https://ai-interview-assistant-silk.vercel.app/)
 
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/devansh978s-projects/ai-interview-assistant)
@@ -45,7 +45,7 @@ project is live at:
 
 Clone the repo and install dependencies:
 ```
-git clone 
+git clone https://github.com/Devansh978/AI-Interview-Assistant.git
 npm install
 ```
 
@@ -67,21 +67,28 @@ npm run lint
 ```
 ## 🛠 Tech Stack
 
-Framework: Next.js 14
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)  
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Radix UI](https://img.shields.io/badge/Radix%20UI-Accessible%20Components-111?style=for-the-badge&logo=radix-ui)  
+![Geist](https://img.shields.io/badge/Geist-Design%20System-black?style=for-the-badge)  
+![Lucide Icons](https://img.shields.io/badge/Lucide-Icons-orange?style=for-the-badge&logo=lucide)  
 
-Language: TypeScript 5
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Modern%20Redux-764ABC?style=for-the-badge&logo=redux)  
+![React Redux](https://img.shields.io/badge/React%20Redux-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 
-UI: TailwindCSS 4, Radix UI, Geist, Lucide Icons
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms%20Made%20Easy-EC5990?style=for-the-badge&logo=reacthookform)  
+![Zod](https://img.shields.io/badge/Zod-Schema%20Validation-3066BE?style=for-the-badge)  
 
-State Management: Redux Toolkit, React Redux
+![AI](https://img.shields.io/badge/AI-Integration-000?style=for-the-badge&logo=openai)  
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-OCR-5D5D5D?style=for-the-badge)  
+![pdf.js](https://img.shields.io/badge/pdf.js-PDF%20Parsing-FF0000?style=for-the-badge&logo=adobeacrobatreader)  
 
-Forms & Validation: React Hook Form, Zod
+![Recharts](https://img.shields.io/badge/Recharts-Data%20Viz-22B5BF?style=for-the-badge)  
 
-AI & Parsing: ai, Tesseract.js, pdf.js
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel)
 
-Data Viz: Recharts
-
-Deployment: Vercel 
 
 ## ❓ Troubleshooting
 
@@ -95,8 +102,8 @@ Sync issues? Re-trigger deployment in v0.app or Vercel.
 
 ## 👥 Contributors
 
-[Devansh978](https://github.com/Devansh978) – Maintainer
+[![GitHub - Devansh978](https://img.shields.io/badge/GitHub-Devansh978-black?style=for-the-badge&logo=github)](https://github.com/Devansh978)  
+[![Email - devanshchourey@gmail.com](https://img.shields.io/badge/Email-devanshchourey%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devanshchourey@gmail.com)
 
-Gmail - devanshchourey@gmail.com
 
 
