@@ -13,7 +13,7 @@ It helps simulate interview scenarios using AI, providing a seamless and interac
 
 project is live at:
 
-**[https://vercel.com/devansh978s-projects/ai-interview-assistant](https://vercel.com/devansh978s-projects/ai-interview-assistant)**
+**[https://ai-interview-assistant-silk.vercel.app/](https://ai-interview-assistant-silk.vercel.app/)**
 
 ## ✨ Features
 
